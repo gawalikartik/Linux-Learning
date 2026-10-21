@@ -17,3 +17,4 @@ Daily 20-minute Linux practice. Learning step by step.
 | Day 9 | find & which | find (-name, wildcard *), which, pipe with head and wc -l | ✅ Completed |
 | Day 10 | Text Handling & Pipes | wc -l, sort, uniq, uniq -c, pipe (jodne), sort / uniq / wc -l | ✅ Completed |
 | Day 11 | grep & Pipes | grep "text", grep -i, pipe with ls / cat / ps | ✅ Completed |
+| Day 12 | grep options | grep -n , grep -c  | ✅ Completed |
