@@ -20,3 +20,4 @@ Daily 20-minute Linux practice. Learning step by step.
 | Day 12 | grep options | grep -n , grep -c  | ✅ Completed |
 | Day 13 | Archive (tar) | tar -cvf (Close), tar -xvf (Open), tar -tf (See Inside) | ✅ Completed || Day 14 | Archive & Compression (tar) | tar -czvf (create + compress), tar -tzf (list), tar -xzvf (extract) |
 | Day 15 | Command Shortcuts | history, up arrow, Tab completion | ✅ Completed |
+| Day 16 | Services (systemctl) | systemctl is-active, systemctl status | ✅ Completed |
