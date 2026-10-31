@@ -22,3 +22,4 @@ Daily 20-minute Linux practice. Learning step by step.
 | Day 15 | Command Shortcuts | history, up arrow, Tab completion | ✅ Completed |
 | Day 16 | Services (systemctl) | systemctl is-active, systemctl status | ✅ Completed |
 | Day 17 | Service Control (systemctl) | systemctl start, systemctl stop, systemctl is-active | ✅ Completed |
+| Day 18 | Service Boot Control (systemctl) | systemctl enable, systemctl disable, systemctl is-enabled | ✅ Completed |
